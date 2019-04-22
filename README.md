@@ -19,13 +19,13 @@ Discord API v6
 
 ### Configuration
 
-- Step 1: Edit file api.php
+Step 1: Edit file api.php
 
 ```
 $channelid = '0123456789'; //Change the number to your spam channel id
 ...
 ```
-- Step 2: Edit file spam.php
+Step 2: Edit file spam.php
 ```
 ...
 
@@ -36,7 +36,7 @@ $channelid = '0123456789'; //Change the number to your spam channel id
 window.setInterval(function(){spam();}, 3000);  // Change Interval here to delay sending messages. For eg: 5000 for 5 sec
 ```
 
-- Multi accounts(optional)
+Step 3: Multiple accounts(optional)
 
 Copy spam.php to "spam1.php", "spam2.php", "spam3.php"...
 
