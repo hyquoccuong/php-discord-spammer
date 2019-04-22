@@ -16,7 +16,7 @@ Installation
 3) Make a folder called "php-discord-spammer"
 4) Drag and drop all files inside the folder
 5) Do configurations steps(below)
-6) Go to localhost/php-discord-spammer
+6) Go to localhost/php-discord-spammer in your browser
 7) Right click "spam.php", "spam1.php", "spam2.php", "spam3.php"... Open in new tab
 8) Keep those tabs open on your browser
 
@@ -32,7 +32,7 @@ $channelid = '0123456789'; //Change the number to your spam channel id
 
 ...
 
-var token = "your-token-here"; // Change your-token-here text to your account token
+var token = "your-token-here"; //Change your-token-here text to your account token
 
 ...
 
