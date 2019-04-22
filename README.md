@@ -17,12 +17,6 @@ Discord API v6
 4) Drag and drop all files inside the folder
 5) Do configurations steps(below)
 
-### How to use
-1) XAMPP Control Panel -> Start Apache
-2) Go to localhost/php-discord-spammer in your browser
-3) Right click "spam.php", "spam1.php", "spam2.php", "spam3.php"... Open each in new tab
-4) Keep those tabs open on your browser
-
 ### Configuration
 
 - Step 1: Edit file api.php
@@ -49,6 +43,12 @@ Copy spam.php to "spam1.php", "spam2.php", "spam3.php"...
 Repeat step 2 with another user token(another account) for each file
 
 To stop scripts just close those tabs or stop apache in XAMPP Control Panel
+
+### How to use
+1) XAMPP Control Panel -> Start Apache
+2) Go to localhost/php-discord-spammer in your browser
+3) Right click "spam.php", "spam1.php", "spam2.php", "spam3.php"... Open each in new tab
+4) Keep those tabs open on your browser
 
 ### NOTE:
 - Don't use your main account for spamming be cause it will be banned by discord after 1-2 weeks, just create alt accounts(use some temporary email websites for register and active discord account) 
