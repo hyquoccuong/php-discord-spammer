@@ -47,5 +47,5 @@ Repeat step 2 with another user token(another account) for each file
 To stop scripts just close those tabs or stop apache in XAMPP Control Panel
 
 NOTE:
-- Don't use your main account for spamming be cause it will be banned by discord after 1-2 weeks, just create alt accounts(use some temporary email websties for register and active discord account) 
+- Don't use your main account for spamming be cause it will be banned by discord after 1-2 weeks, just create alt accounts(use some temporary email websites for register and active discord account) 
 - You need to know how to get your user token and channel id from discord for configuration, and user must be invited to that channel
