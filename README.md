@@ -30,11 +30,13 @@ Step 2: Edit file spam.php
 ```
 ...
 
-    var token = "your-token-here"; //Change your-token-here text to your account token
+    let token = "your-token-here"; //Change your-token-here text to your account token
 
 ...
 
-window.setInterval(function(){spam();}, 3000);  // Change Interval here to delay sending messages. For eg: 5000 for 5 sec
+window.setInterval(function () {
+        spam();
+    }, 3000);  // Change Interval here to test. For eg: 5000 for 5 sec
 ```
 
 Step 3: Multiple accounts(optional)
