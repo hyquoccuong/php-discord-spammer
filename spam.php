@@ -1,0 +1,10 @@
+<script>
+function spam() {
+	var token = "your-token-here";
+	var xhttp = new XMLHttpRequest();
+	xhttp.open("POST", "api.php", true);
+	xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+	xhttp.send("token=" + token);
+}
+window.setInterval(function(){spam();}, 3000);  // Change Interval here to test. For eg: 5000 for 5 sec
+</script>
